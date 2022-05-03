@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I have been coding since 2017.
+
+I have skills and experiences in following stacks:
+1. Full stack development with laravel web framework. (3+ years of experience)
+2. Mobile app development with flutter. (2+ years of experience)
+3. Data Analytics/AI/ML with Python. (less than a year of experience)
+4. Deep Learning with pytorch and tensorflow. (less than a year of experience) 
+5. Robotics Development with ROS Noetic and ROS 2. (less than a year of experience)
