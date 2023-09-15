@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I have been coding since 2017.
+5 years of experience developing software components in high level language. 2 years of experience in computer vision, deep learning and robotics development. Skilled and innovative professional with a diverse and accomplished background spanning multiple fields, offering expertise in software development, programming, robotics, machine learning, and more. Adept at bridging the gap between theory and practical application, with a commitment to delivering impactful solutions. An agile problem solver with a strong foundation in technology and a passion for creating cutting-edge systems. Proven ability to drive efficiently and achieve tangible results through multidisciplinary collaboration. Seeking opportunities to leverage this unique skill set and drive innovation in challenging projects and roles.
 
-I have skills and experiences in following stacks:
-1. Full stack development with laravel web framework. (3+ years of experience)
-2. Mobile app development with flutter. (2+ years of experience)
-3. Data Analytics/AI/ML with Python. (less than a year of experience)
-4. Deep Learning with pytorch and tensorflow. (less than a year of experience) 
-5. Robotics Development with ROS Noetic and ROS 2. (less than a year of experience)
+Skills and Experience in:
+Programming Languages (Java, Python, PHP, C++), Web Application Development (ReactJS, Laravel Framework), Robotics and Sensor Integration, 3D Printing and Design, Troubleshooting and Debugging, Machine Learning and Deep Learning (Image Segmentation, Image Classification, Object Detection, Sentiment Analysis, Anomaly Detection), Version Control (Git), Agile Development, Problem Solving, Communication, Version Control (Git, GitHub, GitLab), Agile Development, Problem Solving, Communication, Docker Container Deployment, Linux Server Management and Access.
