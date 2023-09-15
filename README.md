@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 Skills and Experience in:
 Programming Languages (Java, Python, PHP, C++), Web Application Development (ReactJS, Laravel Framework), Robotics and Sensor Integration, 3D Printing and Design, Troubleshooting and Debugging, Machine Learning and Deep Learning (Image Segmentation, Image Classification, Object Detection, Sentiment Analysis, Anomaly Detection), Version Control (Git), Agile Development, Problem Solving, Communication, Version Control (Git, GitHub, GitLab), Agile Development, Problem Solving, Communication, Docker Container Deployment, Linux Server Management and Access.
+
+All the works I have done @ https://aashizpoudel.github.io
